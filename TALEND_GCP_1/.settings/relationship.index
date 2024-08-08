@@ -1,0 +1,16 @@
+[ {
+  "baseItem" : {
+    "id" : "_VF1LsFOuEe-Ww71wk7_pxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "TALEND_GCP_1:_QeqfQFVOEe-qZbLcptiTaA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_dOemUFU5Ee-_9frTrj35TQ - transaction",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
